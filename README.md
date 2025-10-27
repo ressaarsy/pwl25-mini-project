@@ -174,7 +174,7 @@ Menghapus data lagu berdasarkan ID.
    atau
 
    ```bash
-   node app.js
+   node server.js
    ```
 
 5. Akses di browser/Postman:
