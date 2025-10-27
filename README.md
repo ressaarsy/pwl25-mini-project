@@ -32,7 +32,7 @@ pwl25-mini-project/
 │   └── errorHandler.js     # Menangani error secara global
 │
 ├── .env                    # Menyimpan konfigurasi DB dan port
-├── app.js                  # Entry point aplikasi
+├── server.js                  # Entry point aplikasi
 ├── package.json
 ├── README.md
 └── screenshot/             # Berisi hasil uji API di Postman
