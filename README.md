@@ -113,8 +113,7 @@ Pada bagian live coding, saya menampilkan implementasi lengkap **fungsi `createM
 Menampilkan semua data lagu dari database.
 
 *Lihat screenshot:*
-`screenshot/get_all_music.png`
-
+![Screenshot](screenshot/get_all_music.png)
 **POST /api/music**
 Menambahkan lagu baru dengan body JSON:
 
@@ -130,19 +129,19 @@ Menambahkan lagu baru dengan body JSON:
 ```
 
 *Lihat screenshot:*
-`screenshot/post_music.png`
+![Screenshot](screenshot/post_music.png)
 
 **PUT /api/music/:id**
 Memperbarui data lagu tertentu.
 
 *Lihat screenshot:*
-`screenshot/put_music.png`
+![Screenshot](screenshot/put_music.png)
 
 **DELETE /api/music/:id**
 Menghapus data lagu berdasarkan ID.
 
 *Lihat screenshot:*
-`screenshot/delete_music.png`
+![Screenshot](screenshot/delete_music.png)
 
 ---
 
