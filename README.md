@@ -150,7 +150,7 @@ Menghapus data lagu berdasarkan ID.
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/username/pwl25-mini-project.git
+   git clone https://github.com/ressaarsy/pwl25-mini-project.git
    ```
 
 2. Masuk ke folder project:
